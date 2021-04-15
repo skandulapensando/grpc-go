@@ -19,8 +19,8 @@
 package conn
 
 import (
-	"crypto/aes"
-	"crypto/cipher"
+	"github.com/skandulapensando/pen-go-crypto/aes"
+	"github.com/skandulapensando/pen-go-crypto/cipher"
 
 	core "google.golang.org/grpc/credentials/alts/internal"
 )

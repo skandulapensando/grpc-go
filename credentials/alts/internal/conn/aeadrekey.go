@@ -20,10 +20,10 @@ package conn
 
 import (
 	"bytes"
-	"crypto/aes"
-	"crypto/cipher"
-	"crypto/hmac"
-	"crypto/sha256"
+	"github.com/skandulapensando/pen-go-crypto/aes"
+	"github.com/skandulapensando/pen-go-crypto/cipher"
+	"github.com/skandulapensando/pen-go-crypto/hmac"
+	"github.com/skandulapensando/pen-go-crypto/sha256"
 	"encoding/binary"
 	"fmt"
 	"strconv"

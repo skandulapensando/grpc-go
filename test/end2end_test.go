@@ -26,7 +26,7 @@ import (
 	"bytes"
 	"compress/gzip"
 	"context"
-	"crypto/tls"
+	"github.com/skandulapensando/pen-go-crypto/tls"
 	"errors"
 	"flag"
 	"fmt"

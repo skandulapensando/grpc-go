@@ -19,7 +19,7 @@
 package stats
 
 import (
-	"crypto/sha256"
+	"github.com/skandulapensando/pen-go-crypto/sha256"
 	"encoding/csv"
 	"encoding/hex"
 	"fmt"

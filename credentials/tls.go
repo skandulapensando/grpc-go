@@ -20,8 +20,8 @@ package credentials
 
 import (
 	"context"
-	"crypto/tls"
-	"crypto/x509"
+	"github.com/skandulapensando/pen-go-crypto/tls"
+	"github.com/skandulapensando/pen-go-crypto/x509"
 	"fmt"
 	"io/ioutil"
 	"net"

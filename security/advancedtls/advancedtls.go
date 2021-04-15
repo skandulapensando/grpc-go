@@ -23,8 +23,8 @@ package advancedtls
 
 import (
 	"context"
-	"crypto/tls"
-	"crypto/x509"
+	"github.com/skandulapensando/pen-go-crypto/tls"
+	"github.com/skandulapensando/pen-go-crypto/x509"
 	"fmt"
 	"net"
 	"syscall"

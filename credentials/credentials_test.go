@@ -20,7 +20,7 @@ package credentials
 
 import (
 	"context"
-	"crypto/tls"
+	"github.com/skandulapensando/pen-go-crypto/tls"
 	"net"
 	"reflect"
 	"strings"

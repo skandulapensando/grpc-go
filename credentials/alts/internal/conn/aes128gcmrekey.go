@@ -19,7 +19,7 @@
 package conn
 
 import (
-	"crypto/cipher"
+	"github.com/skandulapensando/pen-go-crypto/cipher"
 
 	core "google.golang.org/grpc/credentials/alts/internal"
 )
